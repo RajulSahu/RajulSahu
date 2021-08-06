@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=RajulSahu&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RajulSahu&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 <p>
-<br/>
+<br>
   Thanks a lot for visiting my github profile!!
 <br>
   Thanks for stopping by!
