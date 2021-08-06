@@ -23,6 +23,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/74370799/128492362-8ce147e8-300f-4338-a618-02be0c16557e.png"/>
+<img align="left" alt="C_Language" width="26px" src="https://user-images.githubusercontent.com/74370799/128494209-38948e0c-d6ac-4397-98b1-005c6bbf4108.png"/>
 <img align="left" alt="Pycharm" width="26px" src="https://user-images.githubusercontent.com/74370799/128492788-c7ad8fd2-a6f8-43b8-b2b1-42e537dba947.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/74370799/128492957-6fc7f34e-cf1a-4318-bc2c-7b16fd1fae6f.png"/>
 <img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/74370799/128493200-cf391fcb-5ca7-4c25-9a75-cc89102f6a89.png"/>
