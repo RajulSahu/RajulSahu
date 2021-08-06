@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any project based on python
 - 📫 How to reach me @ [Mail](officialrajul1304@gmail.com)
+- 📜 Always in learning mode
+- 👨‍🏫 Love to teach what I have learnt 
+- 🥁 I am a drummer, I love to play drums
+
 
 
 ***
