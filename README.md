@@ -16,7 +16,8 @@
 <p>
 <br/>
   Thanks a lot for visiting my github profile!!
-<br>Thanks for stopping by!
+<br>
+  Thanks for stopping by!
 <br>
 <br>
   
