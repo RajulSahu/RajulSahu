@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajulSahu
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on any project based on python
 - 📫 How to reach me @ [Mail](officialrajul1304@gmail.com)
 - 📜 Always in learning mode
