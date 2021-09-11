@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RajulSahu
+- Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I’m @RajulSahu
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on any project based on python
@@ -6,6 +6,7 @@
 - 📜 Always in learning mode
 - 👨‍🏫 Love to teach what I have learnt 
 - 🥁 I am a drummer, I love to play drums
+
 
 
 
