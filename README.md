@@ -27,6 +27,7 @@
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/74370799/131902407-1269e960-6290-4a0f-a38a-f837ea978320.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/74370799/128492957-6fc7f34e-cf1a-4318-bc2c-7b16fd1fae6f.png"/>
 <img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/74370799/128493200-cf391fcb-5ca7-4c25-9a75-cc89102f6a89.png"/>
+<img align="left" alt="JAVASCRIPT" width="26px" src="https://user-images.githubusercontent.com/74370799/132999644-5cdeeeb7-767a-4dbb-84ca-1a0eabdc7d95.png"/>
 <img align="left" alt="Pycharm" width="26px" src="https://user-images.githubusercontent.com/74370799/128492788-c7ad8fd2-a6f8-43b8-b2b1-42e537dba947.png"/>
 <img align="left" alt="Intellij" width="26px" src="https://user-images.githubusercontent.com/74370799/131903251-c3415253-df96-42af-a3a6-292b79b918b6.png"/>
 <img align="left" alt="VS_Code" width="26px" src="https://user-images.githubusercontent.com/74370799/131903113-e13ddf5e-d41c-497d-82f9-a86927899de0.png"/> 
@@ -34,10 +35,6 @@
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/74370799/128493693-3aa285e0-97d9-4af9-a842-e2ab55099426.png"/>
 
   
-  
-
-
-
   
 <br>
 <br>
