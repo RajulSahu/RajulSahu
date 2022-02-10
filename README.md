@@ -23,19 +23,20 @@
   
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/74370799/128492362-8ce147e8-300f-4338-a618-02be0c16557e.png"/>
-<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/74370799/131902407-1269e960-6290-4a0f-a38a-f837ea978320.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/74370799/128492957-6fc7f34e-cf1a-4318-bc2c-7b16fd1fae6f.png"/>
-<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/74370799/128493200-cf391fcb-5ca7-4c25-9a75-cc89102f6a89.png"/>
-<img align="left" alt="JAVASCRIPT" width="26px" src="https://user-images.githubusercontent.com/74370799/132999644-5cdeeeb7-767a-4dbb-84ca-1a0eabdc7d95.png"/>
-<img align="left" alt="Pycharm" width="26px" src="https://user-images.githubusercontent.com/74370799/128492788-c7ad8fd2-a6f8-43b8-b2b1-42e537dba947.png"/>
-<img align="left" alt="Intellij" width="26px" src="https://user-images.githubusercontent.com/74370799/131903251-c3415253-df96-42af-a3a6-292b79b918b6.png"/>
-<img align="left" alt="VS_Code" width="26px" src="https://user-images.githubusercontent.com/74370799/131903113-e13ddf5e-d41c-497d-82f9-a86927899de0.png"/> 
-<img align="left" alt="Github" width="26px" src="https://user-images.githubusercontent.com/74370799/128493417-6db9f52f-c21f-4794-b8c4-c21600fe17c5.png"/>
-<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/74370799/128493693-3aa285e0-97d9-4af9-a842-e2ab55099426.png"/>
+<img align="left" alt="Python" width="40px" src="https://user-images.githubusercontent.com/74370799/153476089-683e40ab-c813-4ca2-8cf3-7d03133c128c.svg"/>
+<img align="left" alt="Java" width="40px" src="https://user-images.githubusercontent.com/74370799/153475961-26e027a3-7a12-45b3-b7da-fe20b7cda646.svg"/>
+<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/74370799/153475432-19830d44-2a81-41e4-bc61-d43870dd85e2.svg"/>
+<img align="left" alt="CSS3" width="40px" src="https://user-images.githubusercontent.com/74370799/153475567-4fe50b7a-f767-4738-a1f9-35af1827e4f0.svg"/>
+<img align="left" alt="JAVASCRIPT" width="40px" src="https://user-images.githubusercontent.com/74370799/153475243-5315fe8a-e806-45c1-b70e-3ad64e39bbbd.svg"/>
+<img align="left" alt="Flutter" width="40px" src="https://user-images.githubusercontent.com/74370799/153474268-dc30c1b5-3d1e-4e1d-80f0-5b4310498b7e.svg"/>
+<img align="left" alt="Pycharm" width="40px" src="https://user-images.githubusercontent.com/74370799/153475075-2492ed17-7815-4b1a-bf6c-aedcb87aa4b5.svg"/>
+<img align="left" alt="Intellij" width="40px" src="https://user-images.githubusercontent.com/74370799/153474930-8829cf32-7996-40c5-93ea-83f2840adb5d.svg"/>
+<img align="left" alt="Android_Studio" width="40px" src="https://user-images.githubusercontent.com/74370799/153474725-597fc17f-fc13-452a-9df6-080cdde6a2cd.svg"/>
+<img align="left" alt="VS_Code" width="40px" src="https://user-images.githubusercontent.com/74370799/153476525-0c512e13-de2c-4ba4-bceb-d1de16f58d54.svg"/> 
+<img align="left" alt="Github" width="40px" src="https://user-images.githubusercontent.com/74370799/153476733-e6e7eb12-8f1c-44fa-9d13-c5bbade94dfe.svg"/>
+<img align="left" alt="Git" width="40px" src="https://user-images.githubusercontent.com/74370799/153476955-e1ade38c-94cb-4cb8-8e25-eef3a2bedf0d.svg"/>
 
-  
-  
+
 <br>
 <br>
 <br>
