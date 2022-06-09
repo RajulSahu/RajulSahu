@@ -1,4 +1,4 @@
-- Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px">, I’m @RajulSahu
+- Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I’m @RajulSahu
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on any project based on Java, Web-Dev, Python.
