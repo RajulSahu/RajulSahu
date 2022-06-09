@@ -27,7 +27,7 @@
 <img align="left" alt="Java" width="40px" src="https://user-images.githubusercontent.com/74370799/153475961-26e027a3-7a12-45b3-b7da-fe20b7cda646.svg"/>
 <img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/74370799/153475432-19830d44-2a81-41e4-bc61-d43870dd85e2.svg"/>
 <img align="left" alt="CSS3" width="40px" src="https://user-images.githubusercontent.com/74370799/153475567-4fe50b7a-f767-4738-a1f9-35af1827e4f0.svg"/>
-<img align="left" alt="JAVASCRIPT" width="40px" src="https://user-images.githubusercontent.com/74370799/153475243-5315fe8a-e806-45c1-b70e-3ad64e39bbbd.svg"/>
+<!-- <img align="left" alt="JAVASCRIPT" width="40px" src="https://user-images.githubusercontent.com/74370799/153475243-5315fe8a-e806-45c1-b70e-3ad64e39bbbd.svg"/> -->
 <img align="left" alt="Flutter" width="40px" src="https://user-images.githubusercontent.com/74370799/153474268-dc30c1b5-3d1e-4e1d-80f0-5b4310498b7e.svg"/>
 <img align="left" alt="Pycharm" width="40px" src="https://user-images.githubusercontent.com/74370799/153475075-2492ed17-7815-4b1a-bf6c-aedcb87aa4b5.svg"/>
 <img align="left" alt="Intellij" width="40px" src="https://user-images.githubusercontent.com/74370799/153474930-8829cf32-7996-40c5-93ea-83f2840adb5d.svg"/>
